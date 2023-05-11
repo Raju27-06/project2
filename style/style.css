@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: 'Bruno Ace', cursive;
+font-family: 'Poltawski Nowy', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(93, 93, 195);
+    color: aliceblue;
+    height: 104px;
+}
+.first{
+    display: flex;
+}
+.login{
+    display: flex;
+    gap: 30px;
+    margin-top: 25px;
+}
+button{
+    margin-top: 25px;
+    background-color: blue;
+    color: aliceblue;
+    
+}
+button:hover{
+    cursor: pointer;
+}
+input{
+    margin-top: 5px;
+}
+h2{
+    margin-top: 42px;
+    font-size: 45px;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+main{
+    background-color: rgb(210, 210, 234);
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    height: 300px;
+    width: 500px;
+}
+.last{
+    color: blue;
+}
+.left{
+    margin-top: 20px;
+  
+}
+.right{
+    margin-top: 20px;
+}
+img{
+    margin-top: 15px;
+}
+.one{
+    font-size: 27px;
+}
+.two{
+    font-size: 30px;
+}
+.three{
+    margin-top: 8px;
+}
+.four{
+    margin-top: 9px;
+}
+.five{
+    margin-top: 12px;
+}
+.sign{
+    background-color: green;
+    color: aliceblue;
+    padding: 6px 10%;
+}
+input{
+    padding: 8px;
+}
+.gend{
+    margin-top: 12px;
+}
